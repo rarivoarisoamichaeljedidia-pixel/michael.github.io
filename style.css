@@ -72,7 +72,7 @@ body{
 }
 
 .nav-menu a:hover{
-    color: #3498db;
+    color: #34d5db;
     transition: 0.3s;
 }
 
@@ -280,5 +280,6 @@ footer{
     text-align: center;
     padding: 20px 0;
 }
+
 
 
